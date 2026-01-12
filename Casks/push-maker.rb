@@ -8,5 +8,5 @@ cask "push-maker" do
   desc "Compose desktop tool for sending debug push notifications"
   homepage "https://github.com/erguerra/push-maker"
 
-  app "Push Maker.app"
+  app "PushMaker.app"
 end
